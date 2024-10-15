@@ -1,8 +1,7 @@
 from tkinter import *
-from tkinter import messagebox
 
 
-#dizionario morse
+#morse dictionary 
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...',
                     'C':'-.-.', 'D':'-..', 'E':'.',
                     'F':'..-.', 'G':'--.', 'H':'....',
